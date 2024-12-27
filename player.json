@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Player 1",
+        "matches": 10,
+        "wins": 6,
+        "losses": 4
+    },
+    {
+        "name": "Player 2",
+        "matches": 8,
+        "wins": 5,
+        "losses": 3
+    }
+]
